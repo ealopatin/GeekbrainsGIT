@@ -1,6 +1,8 @@
+![GB logo - create wiht support](https://raw.githubusercontent.com/ealopatin/GB/main/LogoGB.png)
+
 # Краткое руководство по GIT
 ## **Основные команды**
-![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+
 * **git init** - создает локальный реопзиторий
 * **git commit** - создает комментарий и контрольную точку
 * **git add** - доавляем файл (-а в git commit - am - делает тоже самое)
