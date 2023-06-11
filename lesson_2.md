@@ -14,3 +14,8 @@
 seatwe4rtaefrgaewrt
 
 dcr5ysrtuydyujdtyiu
+
+
+Чтобы вставить изображение достаточно сделать следующее :
+
+![Привет это дафт](daft.jpg)
