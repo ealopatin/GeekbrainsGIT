@@ -63,10 +63,24 @@ Git merge branch_name - Добавляет информацию из branch_name
 
 Добработка инструкции:
 
-git add git commit git diff git stash .gitignore
+## Дополнительный список команд
 
-git status git tag git blame
+* git add  
+* git commit 
+* git diff 
+* git stash 
+* .gitignore
 
-Git checkout git clean git revert git reset git rm
+* git status 
+* git tag 
+* git blame
 
-git init git clone git config
+* git checkout 
+* git clean 
+* git revert 
+* git reset 
+* git rm
+
+* git init 
+* git clone 
+* git config
