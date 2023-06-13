@@ -22,3 +22,4 @@
 
 2 ветки
 кейс 2
+Git brancj branch_name - создает новую ветку с именем branch_name
