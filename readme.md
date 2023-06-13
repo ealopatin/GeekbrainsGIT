@@ -58,3 +58,15 @@ Git merge branch_name - Добавляет информацию из branch_name
 ## Gрочее
 
 * git commit --amend -m "commit comment" - меняет комментарий к последнему коммиту
+
+
+
+Добработка инструкции:
+
+git add git commit git diff git stash .gitignore
+
+git status git tag git blame
+
+Git checkout git clean git revert git reset git rm
+
+git init git clone git config
