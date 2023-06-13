@@ -24,4 +24,14 @@
 
 * Git branc branch_name - создает новую ветку с именем branch_name
 
+* Git branc -d branch_name - удаляет ветку с именем branch_name
 
+* Git branc -D branch_name - удаляет ветку с именем branch_name (без слияния)
+
+## **Слияние**
+
+Git merge branch_name - Добавляет информацию из branch_name в текущую ветку.
+
+## прочее
+
+git commit --amend -m "commit comment" - меняет комментарий к последнему коммиту
