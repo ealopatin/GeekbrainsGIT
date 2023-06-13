@@ -18,8 +18,12 @@
 Для 'облегчения' обучения 
 [cсылка на тренажер](https://learngitbranching.js.org/)
 
-## Ветки 
+## **Ветки**
 
 2 ветки
 кейс 2
-Git brancj branch_name - создает новую ветку с именем branch_name
+* Git branch - выводит название строк
+
+* Git branc branch_name - создает новую ветку с именем branch_name
+
+
